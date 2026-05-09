@@ -1,0 +1,37 @@
+body{
+    background:#f0f0f0;
+    font-family:Arial;
+}
+
+.box{
+    width:300px;
+    margin:100px auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
+
+input{
+    width:100%;
+    padding:10px;
+    margin-top:10px;
+}
+
+button{
+    width:100%;
+    padding:10px;
+    margin-top:10px;
+    background:blue;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+button:hover{
+    background:darkblue;
+}
+
+#message{
+    margin-top:15px;
+    font-weight:bold;
+}
